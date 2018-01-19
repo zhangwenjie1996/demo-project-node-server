@@ -1,0 +1,139 @@
+{
+  "state": "Success",
+  "message": "请求成功！",
+  "data": [
+    {
+      "id": null,
+      "parent": "0",
+      "text": null,
+      "children": [
+        {
+          "id": null,
+          "parent": "1",
+          "text": null,
+          "children": [
+            {
+              "id": null,
+              "parent": "2",
+              "text": null,
+              "children": [
+                {
+                  "id": null,
+                  "parent": "106",
+                  "text": null,
+                  "children": [],
+                  "url": null,
+                  "iconStyle": null,
+                  "key": "117",
+                  "title": "测试",
+                  "name": null,
+                  "icon": null,
+                  "processDefinitionKey": null
+                }
+              ],
+              "url": null,
+              "iconStyle": null,
+              "key": "106",
+              "title": "自控部",
+              "name": null,
+              "icon": null,
+              "processDefinitionKey": null
+            },
+            {
+              "id": null,
+              "parent": "2",
+              "text": null,
+              "children": [],
+              "url": null,
+              "iconStyle": null,
+              "key": "107",
+              "title": "工程管理部",
+              "name": null,
+              "icon": null,
+              "processDefinitionKey": null
+            },
+            {
+              "id": null,
+              "parent": "2",
+              "text": null,
+              "children": [],
+              "url": null,
+              "iconStyle": null,
+              "key": "108",
+              "title": "市场部",
+              "name": null,
+              "icon": null,
+              "processDefinitionKey": null
+            },
+            {
+              "id": null,
+              "parent": "2",
+              "text": null,
+              "children": [],
+              "url": null,
+              "iconStyle": null,
+              "key": "103",
+              "title": "财务部",
+              "name": null,
+              "icon": null,
+              "processDefinitionKey": null
+            },
+            {
+              "id": null,
+              "parent": "2",
+              "text": null,
+              "children": [],
+              "url": null,
+              "iconStyle": null,
+              "key": "6",
+              "title": "人事部",
+              "name": null,
+              "icon": null,
+              "processDefinitionKey": null
+            },
+            {
+              "id": null,
+              "parent": "2",
+              "text": null,
+              "children": [],
+              "url": null,
+              "iconStyle": null,
+              "key": "5",
+              "title": "软件部",
+              "name": null,
+              "icon": null,
+              "processDefinitionKey": null
+            },
+            {
+              "id": null,
+              "parent": "2",
+              "text": null,
+              "children": [],
+              "url": null,
+              "iconStyle": null,
+              "key": "7",
+              "title": "行政部",
+              "name": null,
+              "icon": null,
+              "processDefinitionKey": null
+            }
+          ],
+          "url": null,
+          "iconStyle": null,
+          "key": "2",
+          "title": "北京分公司",
+          "name": null,
+          "icon": null,
+          "processDefinitionKey": null
+        }
+      ],
+      "url": null,
+      "iconStyle": null,
+      "key": "1",
+      "title": "总公司",
+      "name": null,
+      "icon": null,
+      "processDefinitionKey": null
+    }
+  ]
+}

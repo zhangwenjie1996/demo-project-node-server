@@ -1,0 +1,129 @@
+{
+  "state": "Success",
+  "message": "请求成功！",
+  "data": [
+    {
+      "id": "1",
+      "parent": "#",
+      "text": null,
+      "children": [
+        {
+          "id": "1-1",
+          "parent": "1",
+          "text": null,
+          "children": [],
+          "url": "/form1",
+          "iconStyle": null,
+          "key": null,
+          "title": null,
+          "name": "基础表单",
+          "icon": "form"
+        },
+        {
+          "id": "1-2",
+          "parent": "1",
+          "text": null,
+          "children": [],
+          "url": "/form2",
+          "iconStyle": null,
+          "key": null,
+          "title": null,
+          "name": "表单管理",
+          "icon": "form"
+        }
+      ],
+      "url": "",
+      "iconStyle": null,
+      "key": null,
+      "title": null,
+      "name": "表单页",
+      "icon": "form"
+    },
+    {
+        "id": "2",
+        "parent": "#",
+        "text": null,
+        "children": [
+          {
+            "id": "2-1",
+            "parent": "2",
+            "text": null,
+            "children": [],
+            "url": "/table1",
+            "iconStyle": null,
+            "key": null,
+            "title": null,
+            "name": "基础表格",
+            "icon": "form"
+          } ,
+          {
+            "id": "2-2",
+            "parent": "2",
+            "text": null,
+            "children": [],
+            "url": "/table2",
+            "iconStyle": null,
+            "key": null,
+            "title": null,
+            "name": "复杂表格",
+            "icon": "form"
+          } 
+        ],
+        "url": "",
+        "iconStyle": null,
+        "key": null,
+        "title": null,
+        "name": "表格页",
+        "icon": "form"
+      },
+      {
+          "id": "3",
+          "parent": "#",
+          "text": null,
+          "children": [
+            {
+              "id": "3-1",
+              "parent": "3",
+              "text": null,
+              "children": [],
+              "url": "/carousel",
+              "iconStyle": null,
+              "key": null,
+              "title": null,
+              "name": "轮播图",
+              "icon": "form"
+            } ,
+            {
+                "id": "3-2",
+                "parent": "3",
+                "text": null,
+                "children": [],
+                "url": "/collapse",
+                "iconStyle": null,
+                "key": null,
+                "title": null,
+                "name": "折叠面板",
+                "icon": "form"
+              } ,
+              {
+                "id": "3-3",
+                "parent": "3",
+                "text": null,
+                "children": [],
+                "url": "/modal",
+                "iconStyle": null,
+                "key": null,
+                "title": null,
+                "name": "对话框",
+                "icon": "form"
+              } 
+          ],
+          "url": "",
+          "iconStyle": null,
+          "key": null,
+          "title": null,
+          "name": "其他页",
+          "icon": "form"
+        }
+  ]
+}
