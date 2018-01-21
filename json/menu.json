@@ -86,11 +86,11 @@
               "parent": "3",
               "text": null,
               "children": [],
-              "url": "/carousel",
+              "url": "/drag",
               "iconStyle": null,
               "key": null,
               "title": null,
-              "name": "轮播图",
+              "name": "拖拽",
               "icon": "form"
             } ,
             {
@@ -98,31 +98,106 @@
                 "parent": "3",
                 "text": null,
                 "children": [],
-                "url": "/collapse",
+                "url": "/draft",
                 "iconStyle": null,
                 "key": null,
                 "title": null,
-                "name": "折叠面板",
+                "name": "富文本",
                 "icon": "form"
               } ,
               {
-                "id": "3-3",
-                "parent": "3",
-                "text": null,
-                "children": [],
-                "url": "/modal",
-                "iconStyle": null,
-                "key": null,
-                "title": null,
-                "name": "对话框",
-                "icon": "form"
-              } 
+                  "id": "3-3",
+                  "parent": "3",
+                  "text": null,
+                  "children": [],
+                  "url": "/todo",
+                  "iconStyle": null,
+                  "key": null,
+                  "title": null,
+                  "name": "待办事项",
+                  "icon": "form"
+                } ,
+                {
+                    "id": "3-4",
+                    "parent": "3",
+                    "text": null,
+                    "children": [],
+                    "url": "/contextmenu",
+                    "iconStyle": null,
+                    "key": null,
+                    "title": null,
+                    "name": "右击面板",
+                    "icon": "form"
+                  } 
           ],
           "url": "",
           "iconStyle": null,
           "key": null,
           "title": null,
-          "name": "其他页",
+          "name": "工具模块",
+          "icon": "form"
+        },
+        {
+          "id": "5",
+          "parent": "#",
+          "text": null,
+          "children": [
+            {
+              "id": "5-1",
+              "parent": "5",
+              "text": null,
+              "children": [],
+              "url": "/basicAnimate",
+              "iconStyle": null,
+              "key": null,
+              "title": null,
+              "name": "基础动画",
+              "icon": "form"
+            } ,
+            {
+              "id": "5-2",
+              "parent": "5",
+              "text": null,
+              "children": [],
+              "url": "/exmapleAnimate",
+              "iconStyle": null,
+              "key": null,
+              "title": null,
+              "name": "动画实例",
+              "icon": "form"
+            } 
+          ],
+          "url": "",
+          "iconStyle": null,
+          "key": null,
+          "title": null,
+          "name": "动画",
+          "icon": "form"
+        },
+        {
+          "id": "6",
+          "parent": "#",
+          "text": null,
+          "children": [
+            {
+              "id": "6-1",
+              "parent": "6",
+              "text": null,
+              "children": [],
+              "url": "/echarts",
+              "iconStyle": null,
+              "key": null,
+              "title": null,
+              "name": "echarts",
+              "icon": "form"
+            } 
+          
+          ],
+          "url": "",
+          "iconStyle": null,
+          "key": null,
+          "title": null,
+          "name": "图表",
           "icon": "form"
         }
   ]
