@@ -1,0 +1,16 @@
+{
+  "state": "Success",
+  "message": "请求成功！",
+  "data":   [
+      {
+        "id": 1,
+        "materialModelCode": "Code 1",
+        "materialCategoryName": "materialCategoryName",
+        "materialModelName": "materialModelName",
+        "materialPrice": 100,
+        "amount": 1,
+        "unit": "个",
+        "remark": "xxx...." 
+      } 
+    ]
+}

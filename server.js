@@ -28,6 +28,18 @@ app.get('/post', function (req, res) {
   var data = fs.readFileSync("./json/post.json", "utf8");
   res.send(JSON.parse(data));
 });
+app.get('/enquiryForm', function (req, res) {
+  var data = fs.readFileSync("./json/enquiryForm.json", "utf8");
+  res.send(JSON.parse(data));
+});
+app.get('/billForm', function (req, res) {
+  var data = fs.readFileSync("./json/billForm.json", "utf8");
+  res.send(JSON.parse(data));
+});
+app.get('/complextable', function (req, res) {
+  var data = fs.readFileSync("./json/complextable.json", "utf8");
+  res.send(JSON.parse(data));
+});
 var server = app.listen(8099, function () {
   var host = server.address().address;
   var port = server.address().port;

@@ -1,0 +1,61 @@
+{
+  "state": "Success",
+  "message": "请求成功！",
+  "data":   [
+      {
+        "id": 1,
+        "name": "zwj",
+        "nickName": "pipi",
+        "age": 18,
+        "gender": "0",
+        "phone": "15844784584",
+        "email": "123@qq.com",
+        "address": "北京 北京市 昌平区",
+        "createTime": "2018-01-24 04:42:26"
+      },
+      {
+        "id":2,
+        "name":"zwj",
+        "nickName": "pipi",
+        "age": 18,
+        "gender": "0",
+        "phone": "15844784584",
+        "email": "123@qq.com",
+        "address": "北京 北京市 昌平区",
+        "createTime": "2018-01-24 04:42:26"
+      },
+      {
+        "id": 3,
+        "name": "zwj",
+        "nickName": "pipi",
+        "age": 18,
+        "gender": "0",
+        "phone": "15844784584",
+        "email": "123@qq.com",
+        "address": "北京 北京市 昌平区",
+        "createTime": "2018-01-24 04:42:26"
+      },
+      {
+        "id": 4,
+        "name":"zwj",
+        "nickName": "pipi",
+        "age": 18,
+        "gender": "0",
+        "phone": "15844784584",
+        "email": "123@qq.com",
+        "address": "北京 北京市 昌平区",
+        "createTime": "2018-01-24 04:42:26"
+      },
+      {
+        "id": 5,
+        "name": "zwj",
+        "nickName": "pipi",
+        "age": 18,
+        "gender": "0",
+        "phone": "15844784584",
+        "email": "123@qq.com",
+        "address": "北京 北京市 昌平区",
+        "createTime": "2018-01-24 04:42:26"
+      } 
+    ]
+}
